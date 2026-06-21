@@ -8,8 +8,8 @@
       <img src="vina.jpg" width="130px" height="130px" style="border-radius: 50%; object-fit: cover;" alt="Revina Triadita Suheni">
     </td>
     <td valign="top">
-      <h1>Hi there! I'm Revina Triadita Suheni 👋</h1>
-      <h3>Electronics Engineering Graduate | Automation & Control Systems Enthusiast</h3>
+      <h1>Haiii! Saya Revina Triadita Suheni 👋</h1>
+      <h3>Electronic Engineering Graduated | Sistem Otomasi & Kontrol</h3>
       <p align="left">
         <a href="https://www.linkedin.com/in/revinatriaditasuheni?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
         <a href="mailto:revinatriadita62@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -21,59 +21,59 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 Tentang Saya
 
-An **Electronics Engineering** graduate from **Politeknik Negeri Semarang** with a strong foundation in industrial automation, fundamental electronics, and power systems. Experienced in executing electrical installations, configuring control panels, and programming microcontrollers to ensure efficient and safe industrial operations. 
+Seorang lulusan **Teknik Elektronika** dari **Politeknik Negeri Semarang** dengan landasan pengetahuan yang kuat di bidang otomasi industri, elektronika dasar, dan sistem tenaga listrik. Berpengalaman dalam melaksanakan instalasi listrik, konfigurasi panel kontrol, serta pemrograman mikrokontroler & PLC untuk memastikan operasional industri berjalan dengan efisien dan aman.
 
-- 📍 Based in Semarang, Indonesia
-- ⚙️ Passionate about PLC programming, IoT development, and smart monitoring systems.
+- 📍 Berdomisili di Semarang, Indonesia
+- ⚙️ Sangat tertarik pada pemrograman PLC, pengembangan IoT, dan sistem monitoring cerdas.
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Keahlian & Teknologi
 
-| Category | Technologies / Skills |
+| Kategori | Teknologi / Keahlian |
 | :--- | :--- |
-| **Hardware & Controllers** | PLC, Microcontrollers (Arduino, etc.), Control Panels, Electric Motors |
-| **Software & Simulation** | Arduino IDE, Proteus, Visio |
-| **Electrical Engineering** | Electrical Circuits, Electrical Installation (Industrial & Household) |
-| **Productivity** | MS Office |
+| **Perangkat Keras & Kontroler** | PLC, Mikrokontroler (Arduino, dll), Panel Kontrol, Motor Listrik |
+| **Perangkat Lunak & Simulasi** | Arduino IDE, Proteus, Visio |
+| **Teknik Elektro** | Rangkaian Listrik Industri, Instalasi Listrik (Industri & Domestik) |
+| **Produktivitas** | MS Office |
 
 ---
 
-## 📈 Featured Projects
+## 📈 Proyek Pilihan
 
-* **Tank Parameter Monitoring System** – Developing smart tracking and visualization dashboards for industrial fluid parameters.
-* **Smart Home Installation using Solar Power** – Integrating renewable energy components for sustainable home automation.
-* **Remote Fish Feeding System** – Building an automated, IoT-based micro-controller setup for remote agricultural control.
-* **Industrial Star-Delta & Household Installations** – Designing and wiring robust control systems and electrical distributions.
+* **Sistem Monitoring Parameter Tangki** – Mengembangkan dashboard pemantauan dan visualisasi cerdas untuk parameter sistem pemantauan air domestik.
+* **Instalasi Smart Home Menggunakan Tenaga Surya** – Mengintegrasikan komponen energi terbarukan untuk otomatisasi rumah yang berkelanjutan.
+* **Sistem Pemberi Pakan Ikan Jarak Jauh** – Membangun konfigurasi mikrokontroler berbasis IoT untuk kontrol peternakan jarak jauh.
+* **Instalasi Star-Delta Industri** – Merancang dan merakit pengkabelan sistem kontrol yang kuat serta distribusi listrik.
 
 ---
 
-## 💼 Experience
+## 💼 Pengalaman
 
-* **CV. Sarana Cipta Media** – *Assembly & Training Development (Internship | 2025)*
-    * Assembled industrial electronics training kits based on technical schematics.
-    * Developed comprehensive training materials and modules for industrial concepts.
-* **PT. Askana Jaya Santoso** – *Internship (2024)*
-    * Managed public road maintenance components, inventory logs, and warehouse records.
+* **CV. Sarana Cipta Media** – *Assembly & Training Development (Magang | 2025)*
+    * Merakit kit pelatihan elektronika industri berdasarkan skema teknis.
+    * Mengembangkan materi dan modul pelatihan yang komprehensif untuk konsep-konsep industri.
+* **PT. Askana Jaya Santoso** – *Magang (2024)*
+    * Mengelola komponen pemeliharaan penerangan jalan umum, Melakukan pemantauan pemeliharaan & perawatan penerangan jalan umum, log inventaris, dan catatan gudang.
 * **PT. Arina Multi Karya** – *Reliever (2024)*
-    * Quality control and packaging operations.
+    * Mengoperasikan mesin pengemasan otomatis untuk memastikan proses packing produk berjalan sesuai target produksi.
 
 ---
 
-## 📜 Certifications
+## 📜 Sertifikasi
 
-* **3-Phase Electrical Installation** – *BNSP*
-* **Industry Automation Engineer** – *BNSP*
-* **Industrial PCB Manufacturing** – *Indomaker*
-* **Occupational Health and Safety / K3** – *Akualita*
+* **Instalasi Listrik 3-Fasa** – *BNSP*
+* **Otomasi Industri** – *BNSP*
+* **Desain & Pembuatan PCB untuk Industri** – *Indomaker*
+* **Kesehatan dan Keselamatan Kerja / K3** – *Akualita*
 
 ---
 
-## 📫 How to Reach Me
+## 📫 Hubungi Saya
 * **Email:** revinatriadita62@gmail.com
 * **LinkedIn:** [Revina Triadita](https://www.linkedin.com/in/revinatriaditasuheni?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ---
-<p align="center">🛠️ Built with passion for Automation & Electronics | © 2026 Revina Triadita</p>
+<p align="center">🛠️ Dibuat dengan dedikasi untuk Otomasi & Elektronika | © 2026 Revina Triadita</p>
