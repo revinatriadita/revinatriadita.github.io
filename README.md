@@ -30,6 +30,15 @@ Seorang lulusan **Teknik Elektronika** dari **Politeknik Negeri Semarang** denga
 
 ---
 
+## 🎓 Pendidikan
+
+* **Politeknik Negeri Semarang** – *D3 Teknik Elektronika (2023 - 2026)*
+  * Fokus pada sistem kontrol otomatis, otomasi industri, dan instrumentasi.
+* **SMK Negeri 5 Semarang** – *Teknik Instalasi Tenaga Listrik (2020 - 2023)*
+  * Fokus pada instalasi listrik domestik & industri, kontrol motor, dan panel distribusi.
+
+---
+
 ## 🛠️ Keahlian & Teknologi
 
 | Kategori | Teknologi / Keahlian |
@@ -50,7 +59,7 @@ Seorang lulusan **Teknik Elektronika** dari **Politeknik Negeri Semarang** denga
 
 ---
 
-## 💼 Pengalaman
+## 💼 Pengalaman Kerja / Magang
 
 * **CV. Sarana Cipta Media** – *Assembly & Training Development (Magang | 2025)*
     * Merakit kit pelatihan elektronika industri berdasarkan skema teknis.
@@ -59,6 +68,18 @@ Seorang lulusan **Teknik Elektronika** dari **Politeknik Negeri Semarang** denga
     * Mengelola komponen pemeliharaan penerangan jalan umum, Melakukan pemantauan pemeliharaan & perawatan penerangan jalan umum, log inventaris, dan catatan gudang.
 * **PT. Arina Multi Karya** – *Reliever (2024)*
     * Mengoperasikan mesin pengemasan otomatis untuk memastikan proses packing produk berjalan sesuai target produksi.
+
+---
+
+## 👥 Pengalaman Organisasi
+
+* **UKM Pengembangan Pengetahuan - Departemen Robotika**
+    * **Penasihat Departemen** *(2025 - 2026)*
+        * Memberikan arahan strategis, bimbingan teknis, dan evaluasi performa program kerja tim robotika.
+    * **Staff Departemen** *(2024 - 2025)*
+        * Berkontribusi aktif dalam riset, pengembangan proyek robotika, serta persiapan tim untuk kompetisi.
+    * **Penanggung Jawab Acara - Polines Robotic Contest (2025)**
+        * Memimpin kepanitiaan, menyusun konsep teknis kompetisi, serta mengoordinasikan seluruh divisi demi menyukseskan jalannya acara.
 
 ---
 
