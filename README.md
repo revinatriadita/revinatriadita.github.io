@@ -2,15 +2,15 @@
   <img src="banner.png" alt="Revina Triadita Suheni Header Banner" width="100%">
 </p>
 
-<table>
+<table border="0">
   <tr>
-    <td width="150px" align="center" valign="top">
-      <img src="vina.jpg" width="130px" height="130px" style="border-radius: 50%; object-fit: cover;" alt="Revina Triadita Suheni">
+    <td width="160px" align="center" valign="middle">
+      <img src="vina.jpg" width="140px" height="140px" style="border-radius: 50%; object-fit: cover; border: 3px solid #C19A6B;" alt="Revina Triadita Suheni">
     </td>
-    <td valign="top">
+    <td valign="middle" style="padding-left: 20px;">
       <h1>Haiii! Saya Revina Triadita Suheni 👋</h1>
       <h3>Electronic Engineering Graduated | Sistem Otomasi & Kontrol</h3>
-      <p align="left">
+      <p>
         <a href="https://www.linkedin.com/in/revinatriaditasuheni?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
         <a href="mailto:revinatriadita62@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
         <a href="https://wa.me/6289676373426" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
@@ -73,7 +73,7 @@ Seorang lulusan **Teknik Elektronika** dari **Politeknik Negeri Semarang** denga
 
 ## 📫 Hubungi Saya
 * **Email:** revinatriadita62@gmail.com
-* **LinkedIn:** [Revina Triadita](https://www.linkedin.com/in/revinatriaditasuheni?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+* **LinkedIn:** [Revina Triadita Suheni](https://www.linkedin.com/in/revinatriaditasuheni?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ---
-<p align="center">🛠️ Dibuat dengan dedikasi untuk Otomasi & Elektronika | © 2026 Revina Triadita</p>
+<p align="center">🛠️ Dibuat dengan dedikasi untuk Otomasi & Elektronika | © 2026 Revina Triadita Suheni</p>
