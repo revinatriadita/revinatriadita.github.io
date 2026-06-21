@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="banner.jpg" alt="Revina Triadita Suheni Header Banner" width="100%">
+  <img src="banner.png" alt="Revina Triadita Suheni Header Banner" width="100%">
 </p>
 
 <table>
   <tr>
     <td width="150px" align="center" valign="top">
-      <img src="vina.jpg" width="130px" style="border-radius: 50%;" alt="Revina Triadita Suheni">
+      <img src="vina.jpg" width="130px" height="130px" style="border-radius: 50%; object-fit: cover;" alt="Revina Triadita Suheni">
     </td>
     <td valign="top">
       <h1>Hi there! I'm Revina Triadita Suheni 👋</h1>
@@ -13,6 +13,7 @@
       <p align="left">
         <a href="https://www.linkedin.com/in/revinatriaditasuheni?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
         <a href="mailto:revinatriadita62@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+        <a href="https://wa.me/6289676373426" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
       </p>
     </td>
   </tr>
