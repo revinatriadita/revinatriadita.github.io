@@ -71,18 +71,6 @@ Seorang lulusan **Teknik Elektronika** dari **Politeknik Negeri Semarang** denga
 
 ---
 
-## 👥 Pengalaman Organisasi
-
-* **UKM Pengembangan Pengetahuan - Departemen Robotika**
-    * **Penasihat Departemen** *(2025 - 2026)*
-        * Memberikan arahan strategis, bimbingan teknis, dan evaluasi performa program kerja tim robotika.
-    * **Staff Departemen** *(2024 - 2025)*
-        * Berkontribusi aktif dalam riset, pengembangan proyek robotika, serta persiapan tim untuk kompetisi.
-    * **Penanggung Jawab Acara - Polines Robotic Contest (2025)**
-        * Memimpin kepanitiaan, menyusun konsep teknis kompetisi, serta mengoordinasikan seluruh divisi demi menyukseskan jalannya acara.
-
----
-
 ## 📜 Sertifikasi
 
 * **Instalasi Listrik 3-Fasa** – *BNSP*
