@@ -38,6 +38,13 @@ Seorang lulusan **Teknik Elektronika** dari **Politeknik Negeri Semarang** denga
   * Fokus pada instalasi listrik domestik & industri, kontrol motor, dan panel distribusi.
 
 ---
+## Skills
+![image]({https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white})
+![image]({https://img.shields.io/badge/Node--Red-8F0000?style=for-the-badge&logo=nodered&logoColor=white})
+![image]({https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white})
+![image]({https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white})
+![image]({https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white})
+![image]({https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white})
 
 ## 🛠️ Keahlian & Teknologi
 
